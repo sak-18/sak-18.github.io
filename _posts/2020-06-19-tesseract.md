@@ -4,7 +4,7 @@ date: 2020-06-19
 tags: [deep learning, computer vision, text recognition]
 header:
   image: "/images/tesseract/tesseract-header.png"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+excerpt: "Deep Learning, Computer Vision, Text Recognition"
 mathjax: "true"
 ---
 
